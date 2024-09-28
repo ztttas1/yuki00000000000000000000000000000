@@ -1,1 +1,1 @@
-履歴が残らないモードとiPadのSplit View用モード(Split Viewでも表示がバグらない)を作る予定です
+次バージョンでiPadのSplit View用モード(Split Viewでも表示がバグらない)公開
