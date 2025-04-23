@@ -1,1 +1,1 @@
-久しぶりに見てみたらrenderで作れなくなっているので対策するまで別の方法で作成してください
+yukiyoutubemodは開発終了したのでyoutubeみたいならこっちを　　　//　https://github.com/ztttas1/wa
